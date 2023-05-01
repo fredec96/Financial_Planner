@@ -8,8 +8,9 @@ Part 2: A financial planner for retirement. This tool will forecast the performa
 
 ## Requirements
 
-To use the Financial Planner, you will need to have the following Python libraries installed:
+To use the Financial Planner, you will need to have the following libraries installed:
 
+- python 
 - pandas
 - matplotlib
 - numpy
