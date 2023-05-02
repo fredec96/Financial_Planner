@@ -1,4 +1,4 @@
-# Financial Planner Using API's and stochastic pricing models
+# Financial Planner Using API's and Stochastic Pricing Models
 
 This project creates two financial analysis tools by using a single Jupyter notebook:
 
