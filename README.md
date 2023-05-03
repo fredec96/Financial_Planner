@@ -36,6 +36,12 @@ Based on this information, the program generates 500 different portfolios using 
 
 The program generates a chart that illustrates the possible outcomes of the portfolio based on the Monte Carlo simulations. The chart shows the range of possible portfolio values for each year in the investment horizon, as well as the expected portfolio value.
 
+Forecasted 10 and 30 year P&L summary statistics can be seen below:
+
+![Cumulative Profit & Loss](Images/Cumulative_Profit_Loss.png)
+* Note that because a random number generator is used to run each live Monte Carlo simulation, these statistics will differ slightly when the program is run again
+
+
 ## License
 
 The Financial Planner is released under the [MIT License](LICENSE).
